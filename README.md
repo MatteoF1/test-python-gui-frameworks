@@ -3,7 +3,7 @@
 Repository that holds some simple scripts to test different
 python GUI frameworks.
 
-- test_pyqt5.py tests PyQT5.
+- test_pyqt5.py: uses the PyQT5 Framework.
 
 ## Test PyQT5 Script
 
